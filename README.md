@@ -1,1 +1,1 @@
-# meta-test
+# Yocto meta-test layer
